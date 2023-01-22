@@ -1,5 +1,5 @@
 # FightCore
-FightCore is simple fight engine.
+FightCore is a simple fight engine.
 <br><br>
 This application allows the creation of fighters, with random attributes.<br>
 It also allows these fighters to attack each other.<br>
