@@ -1,0 +1,20 @@
+{
+  "name": "fight-core",
+  "version": "1.0.0",
+  "description": "FightCore is simple fight engine.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@a.github.com:knucs/FightCore.git"
+  },
+  "keywords": [
+    "Engine",
+    "Fight"
+  ],
+  "author": "João Gervásio",
+  "license": "MIT"
+}
